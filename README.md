@@ -1,6 +1,7 @@
-# Pattern 1
+
+## Pattern 1
 ![image](https://github.com/Niltiwari7/pattern_question/assets/93751356/0e0036ff-ac32-4009-909e-c1bebb208f51)
-# Code
+## Code
 ```
 #include<iostream>
 using namespace std;
@@ -16,9 +17,9 @@ int main(){
     }
 }
 ```
-# Pattern 2
+## Pattern 2
 ![image](https://github.com/Niltiwari7/pattern_question/assets/93751356/ed07da7d-e50a-4223-a2a8-456327617000)
-# Code
+## Code
 ```
 #include<iostream>
 using namespace std;
@@ -34,9 +35,9 @@ int main(){
     }
 }
 ```
-# Pattern 3
+## Pattern 3
 ![image](https://github.com/Niltiwari7/pattern_question/assets/93751356/6f73b699-7197-4514-8213-27f13dcfb806)
-# Code
+## Code
 ```
 #include<iostream>
 using namespace std;
@@ -52,9 +53,9 @@ int main(){
     }
 }
 ```
-# Pattern 4
+## Pattern 4
 ![image](https://github.com/Niltiwari7/pattern_question/assets/93751356/3e92110a-0bd6-4a3b-a1fb-00ac2a752357)
-# Code
+## Code
 ```
 #include<iostream>
 using namespace std;
@@ -70,9 +71,9 @@ int main(){
     }
 }
 ```
-# Pattern 5
+## Pattern 5
 ![image](https://github.com/Niltiwari7/pattern_question/assets/93751356/0bee00ba-3cd4-4604-b020-fa476fba83fb)
-# Code 
+## Code 
 ```
 #include<iostream>
 using namespace std;
@@ -88,9 +89,9 @@ int main(){
     }
 }
 ```
-# Pattern 6
+## Pattern 6
 ![image](https://github.com/Niltiwari7/pattern_question/assets/93751356/5c7a96f8-6110-444b-bcba-c9b90ad0a955)
-# Code
+## Code
 ```
 #include<iostream>
 using namespace std;
@@ -106,9 +107,9 @@ int main(){
     }
 }
 ```
-# Pattern 7
+## Pattern 7
 ![image](https://github.com/Niltiwari7/pattern_question/assets/93751356/7801fa76-bcd2-4682-836f-9212f5e4652b)
-# Code
+## Code
 ```
 #include<iostream>
 using namespace std;
@@ -130,8 +131,9 @@ int main(){
     }
 }
 ```
-# Pattern 8
+## Pattern 8
 ![image](https://github.com/Niltiwari7/pattern_question/assets/93751356/86e02e8e-38c3-4640-8214-cd69955d800f)
+## Code
 ```
 #include<iostream>
 using namespace std;
@@ -153,9 +155,9 @@ int main(){
     }
 }
 ```
-# Pattern 9
+## Pattern 9
 ![image](https://github.com/Niltiwari7/pattern_question/assets/93751356/1db7f250-fbb3-433b-a8e9-04520f125483)
-# Code
+## Code
 ```
 #include<iostream>
 using namespace std;
@@ -191,9 +193,9 @@ int main(){
     }
 }
 ```
-# Pattern 10
+## Pattern 10
 ![image](https://github.com/Niltiwari7/pattern_question/assets/93751356/8e2946bf-cc86-476f-b2d2-c87b099e289f)
-# Code
+## Code
 ```
 #include<iostream>
 using namespace std;
